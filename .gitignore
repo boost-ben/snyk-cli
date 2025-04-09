@@ -6,7 +6,7 @@ local.log
 **/dist
 /dist-docker
 /pysrc
-binary-releases
+binary-releases/snyk-linux
 ts-cli-binaries
 prepack
 tmp
